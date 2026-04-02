@@ -1,28 +1,49 @@
-# Hi, I'm Daniel Caso Quintanilla 👋
-**Senior Backend Developer | Software Architect | Cloud Enthusiast**
+# 🛠️ Daniel Caso Quintanilla | Senior Backend Engineer
+**Architecting Scalable Systems | Microservices Specialist | Cloud Native Developer**
 
-Currently transforming legacy .NET monoliths into high-performance microservices with Python, FastAPI, and PostgreSQL.
+[cite_start]Con más de 5 años de experiencia, me especializo en transformar sistemas legados en arquitecturas distribuidas de alta disponibilidad[cite: 4, 8]. [cite_start]Mi enfoque combina la rigurosidad de la **Arquitectura Hexagonal** con la agilidad de los servicios **Cloud Native**[cite: 7, 38].
 
 ---
 
-### 🚀 Technical Arsenal
+### 🏗️ Architectural Philosophy & Core Expertise
+> "I build for scale, maintainability, and resilience."
 
-| Backend & Core | Infrastructure & DevOps | Tools & Patterns |
+* [cite_start]**Modernization:** Experto aplicando el **Strangler Fig Pattern** para migraciones críticas de monolitos .NET a microservicios FastAPI[cite: 32].
+* [cite_start]**Data Integrity:** Implementación de **Change Data Capture (CDC)** con Debezium y patrones **Saga** para consistencia eventual[cite: 32, 40].
+* **Security First:** Desarrollo de librerías personalizadas para **OAuth2/JWT** y gestión de secretos con **HashiCorp Vault**.
+* [cite_start]**AI Integration:** Diseño de agentes inteligentes con **RAG (ChromaDB)** y evaluación de modelos en **Vertex AI**[cite: 33, 40].
+
+---
+
+### 🌌 Engineering Impact (Key Highlights)
+
+| Project | Tech Stack | Key Outcome |
 | :--- | :--- | :--- |
-| **Go, Python, Java, C++** | **OCI, Kubernetes, Terraform** | **Hexagonal Architecture** |
-| **Node.js, TypeScript** | **Docker, Bitbucket CI/CD** | **Domain-Driven Design (DDD)** |
-| **SQL Server, PostgreSQL** | **HashiCorp Vault** | **Event-Driven Architecture** |
+| **Real-time Panic Alerts** | C# .NET, Webhooks | [cite_start]Integración centralizada para Genetec Security Center 5.13[cite: 12, 13]. |
+| **Analytics Engine** | GCP, BigQuery, Looker | [cite_start]Dashboard de detección de anomalías y métricas de negocio en tiempo real[cite: 14]. |
+| **Event-Driven Core** | Kafka, Redis Streams | [cite_start]Reducción de latencia en procesamiento de datos críticos[cite: 30]. |
+| **Automated Pipeline** | GitHub Actions, Terraform | [cite_start]Infraestructura como Código (IaC) para despliegues Zero-Downtime[cite: 34, 38]. |
 
 ---
 
-### 🛠️ Featured Work
-- **[Realtime Alert System](link):** Enterprise-grade alerting built with Go and K8s.
-- **[Starbucks AI Agent](link):** Implementing Hexagonal Architecture with TypeScript.
-- **Microservices Migration:** Leading the transition from monolith to distributed systems.
+### ⚡ Technical Toolbox
 
-### 📊 GitHub Stats
-![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=daniel-caso-github&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-caso-github&layout=compact&theme=tokyonight)
+* [cite_start]**Back-end:** Python (FastAPI/Django), Go, Java (Spring Boot), TypeScript (NestJS), .NET[cite: 37].
+* [cite_start]**Cloud & DevOps:** AWS (Lambda, API Gateway), Docker, Kubernetes, Terraform[cite: 38].
+* [cite_start]**Databases:** PostgreSQL, SQL Server, Redis, MongoDB, PySpark[cite: 39].
+* [cite_start]**Patterns:** DDD, CQRS, Event-Driven, TDD, Hexagonal Architecture[cite: 40].
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/daniel-caso-quintanilla)
+
+### 📈 Open Source & Experiments
+* [cite_start]**[Starbucks AI Agent](https://github.com/daniel-caso-github/starbucks-ai-agent):** Implementación de Agentic Workflows con Claude API[cite: 33].
+* [cite_start]**[Realtime Alert System](https://github.com/daniel-caso-github/realtime-alert-system):** Demostración de escalabilidad vertical en Go con arquitectura limpia[cite: 34].
+* **[Mini Blockchain](https://github.com/daniel-caso-github/mini-blockchain):** Explorando estructuras de datos inmutables y criptografía distribuida.
+
+---
+
+### 💬 Connect with me
+- [cite_start]📍 Lima, Perú (Open to Remote Global) [cite: 49]
+- [cite_start]📧 [daniel.caso.quintanilla@gmail.com](mailto:daniel.caso.quintanilla@gmail.com) [cite: 3]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-caso-quintanilla) | [Portfolio/Blog](#)
+- 🏎️ Passionate about **Sim Racing** (Moza Racing setup).
