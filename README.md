@@ -1,4 +1,4 @@
-a# 🛠️ Daniel Caso Quintanilla | Senior Backend Engineer
+# 🛠️ Daniel Caso Quintanilla | Senior Backend Engineer
 **Architecting Scalable Systems | Microservices Specialist | Cloud Native Developer**
 
 Con más de 5 años de experiencia, me especializo en diseñar microservicios escalables y APIs REST de alto rendimiento. Mi enfoque combina la rigurosidad de la **Arquitectura Hexagonal** con la agilidad de los servicios **Cloud Native**.
