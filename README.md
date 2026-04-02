@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Daniel Caso Quintanilla 👋
+**Senior Backend Developer | Software Architect | Cloud Enthusiast**
 
-<!--
-**daniel-caso-github/daniel-caso-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently transforming legacy .NET monoliths into high-performance microservices with Python, FastAPI, and PostgreSQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Arsenal
+
+| Backend & Core | Infrastructure & DevOps | Tools & Patterns |
+| :--- | :--- | :--- |
+| **Go, Python, Java, C++** | **OCI, Kubernetes, Terraform** | **Hexagonal Architecture** |
+| **Node.js, TypeScript** | **Docker, Bitbucket CI/CD** | **Domain-Driven Design (DDD)** |
+| **SQL Server, PostgreSQL** | **HashiCorp Vault** | **Event-Driven Architecture** |
+
+---
+
+### 🛠️ Featured Work
+- **[Realtime Alert System](link):** Enterprise-grade alerting built with Go and K8s.
+- **[Starbucks AI Agent](link):** Implementing Hexagonal Architecture with TypeScript.
+- **Microservices Migration:** Leading the transition from monolith to distributed systems.
+
+### 📊 GitHub Stats
+![Daniel's Stats](https://github-readme-stats.vercel.app/api?username=daniel-caso-github&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-caso-github&layout=compact&theme=tokyonight)
+
+---
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/daniel-caso-quintanilla)
