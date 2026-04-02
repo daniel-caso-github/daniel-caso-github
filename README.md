@@ -1,17 +1,17 @@
-# 🛠️ Daniel Caso Quintanilla | Senior Backend Engineer
+a# 🛠️ Daniel Caso Quintanilla | Senior Backend Engineer
 **Architecting Scalable Systems | Microservices Specialist | Cloud Native Developer**
 
-[cite_start]Con más de 5 años de experiencia, me especializo en transformar sistemas legados en arquitecturas distribuidas de alta disponibilidad[cite: 4, 8]. [cite_start]Mi enfoque combina la rigurosidad de la **Arquitectura Hexagonal** con la agilidad de los servicios **Cloud Native**[cite: 7, 38].
+Con más de 5 años de experiencia, me especializo en diseñar microservicios escalables y APIs REST de alto rendimiento. Mi enfoque combina la rigurosidad de la **Arquitectura Hexagonal** con la agilidad de los servicios **Cloud Native**.
 
 ---
 
 ### 🏗️ Architectural Philosophy & Core Expertise
 > "I build for scale, maintainability, and resilience."
 
-* [cite_start]**Modernization:** Experto aplicando el **Strangler Fig Pattern** para migraciones críticas de monolitos .NET a microservicios FastAPI[cite: 32].
-* [cite_start]**Data Integrity:** Implementación de **Change Data Capture (CDC)** con Debezium y patrones **Saga** para consistencia eventual[cite: 32, 40].
-* **Security First:** Desarrollo de librerías personalizadas para **OAuth2/JWT** y gestión de secretos con **HashiCorp Vault**.
-* [cite_start]**AI Integration:** Diseño de agentes inteligentes con **RAG (ChromaDB)** y evaluación de modelos en **Vertex AI**[cite: 33, 40].
+* **Modernization:** Experto aplicando el **Strangler Fig Pattern** para migraciones críticas de monolitos .NET a microservicios FastAPI.
+* **Data Integrity:** Implementación de **Change Data Capture (CDC)** con Debezium y patrones **Saga** para consistencia eventual.
+* **Security First:** Desarrollo de librerías para **OAuth2/JWT** y gestión de secretos con **HashiCorp Vault**.
+* **AI Integration:** Diseño de agentes inteligentes con **RAG (ChromaDB)** y evaluación de modelos en **Vertex AI**.
 
 ---
 
@@ -19,31 +19,33 @@
 
 | Project | Tech Stack | Key Outcome |
 | :--- | :--- | :--- |
-| **Real-time Panic Alerts** | C# .NET, Webhooks | [cite_start]Integración centralizada para Genetec Security Center 5.13[cite: 12, 13]. |
-| **Analytics Engine** | GCP, BigQuery, Looker | [cite_start]Dashboard de detección de anomalías y métricas de negocio en tiempo real[cite: 14]. |
-| **Event-Driven Core** | Kafka, Redis Streams | [cite_start]Reducción de latencia en procesamiento de datos críticos[cite: 30]. |
-| **Automated Pipeline** | GitHub Actions, Terraform | [cite_start]Infraestructura como Código (IaC) para despliegues Zero-Downtime[cite: 34, 38]. |
+| **Real-time Panic Alerts** | C# .NET, Webhooks | Integración centralizada para Genetec Security Center 5.13. |
+| **Analytics Engine** | GCP, BigQuery, Looker | Dashboard de detección de anomalías y métricas de negocio en tiempo real. |
+| **Event-Driven Core** | Kafka, Redis Streams | Reducción de latencia en procesamiento de datos críticos. |
+| **Automated Pipeline** | GitHub Actions, Terraform | Infraestructura como Código (IaC) para despliegues Zero-Downtime. |
 
 ---
 
-### ⚡ Technical Toolbox
+### ⚡ Technical Toolbox (From my Professional Background)
 
-* [cite_start]**Back-end:** Python (FastAPI/Django), Go, Java (Spring Boot), TypeScript (NestJS), .NET[cite: 37].
-* [cite_start]**Cloud & DevOps:** AWS (Lambda, API Gateway), Docker, Kubernetes, Terraform[cite: 38].
-* [cite_start]**Databases:** PostgreSQL, SQL Server, Redis, MongoDB, PySpark[cite: 39].
-* [cite_start]**Patterns:** DDD, CQRS, Event-Driven, TDD, Hexagonal Architecture[cite: 40].
+* **Languages:** Python (FastAPI, Django, Flask), Java (Spring Boot), TypeScript (NestJS), Go (Gin), C# .NET, Node.js.
+* **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, RDS), GCP (BigQuery, Vertex AI), Docker, Kubernetes, Terraform, GitHub Actions.
+* **Data:** PostgreSQL, MySQL, SQL Server, MongoDB, Redis, Pandas, PySpark, CDC (Debezium).
+* **Architecture & Practices:** Clean Architecture, Hexagonal, CQRS, Event-Driven, Saga Pattern, DDD, Serverless, TDD.
 
 ---
 
-### 📈 Open Source & Experiments
-* [cite_start]**[Starbucks AI Agent](https://github.com/daniel-caso-github/starbucks-ai-agent):** Implementación de Agentic Workflows con Claude API[cite: 33].
-* [cite_start]**[Realtime Alert System](https://github.com/daniel-caso-github/realtime-alert-system):** Demostración de escalabilidad vertical en Go con arquitectura limpia[cite: 34].
+### 📈 Open Source & Featured Projects
+
+* **[Starbucks AI Agent](https://github.com/daniel-caso-github/starbucks-ai-agent):** Implementación de Agentic Workflows con Claude API e integración RAG.
+* **[Realtime Alert System](https://github.com/daniel-caso-github/realtime-alert-system):** Plataforma en Go con Clean Architecture y Terraform para AWS.
+* **[OAuth2 Microservices Library](https://github.com/daniel-caso-github/users-insights):** Librería Python para auth service-to-service con Keycloak.
 * **[Mini Blockchain](https://github.com/daniel-caso-github/mini-blockchain):** Explorando estructuras de datos inmutables y criptografía distribuida.
 
 ---
 
 ### 💬 Connect with me
-- [cite_start]📍 Lima, Perú (Open to Remote Global) [cite: 49]
-- [cite_start]📧 [daniel.caso.quintanilla@gmail.com](mailto:daniel.caso.quintanilla@gmail.com) [cite: 3]
-- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-caso-quintanilla) | [Portfolio/Blog](#)
+- 📍 Lima, Perú (Open to Remote Global)
+- 📧 daniel.caso.quintanilla@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-caso-quintanilla) | [GitHub](https://github.com/daniel-caso-github)
 - 🏎️ Passionate about **Sim Racing** (Moza Racing setup).
