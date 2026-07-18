@@ -36,7 +36,7 @@ Exploring immutable data structures and distributed cryptography.
 
 - **Security First:** OAuth2/JWT libraries and secret management with HashiCorp Vault.
 
-- - **Design Patterns:** **CQRS**, Event-Driven, DDD, and SOLID as the foundation for maintainable systems.
+- **Design Patterns:** **CQRS**, Event-Driven, DDD, and SOLID as the foundation for maintainable systems.
 
 ---
 
