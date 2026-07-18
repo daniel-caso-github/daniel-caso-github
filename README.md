@@ -2,39 +2,41 @@
 
 **Scalable Systems · Microservices · Cloud Native · AI Integration**
 
-Backend Engineer con más de 5 años diseñando microservicios escalables y APIs de alto rendimiento en **Python/FastAPI**. Combino la rigurosidad de la **Arquitectura Hexagonal / Clean Architecture** con la agilidad de los servicios **Cloud Native**, y construyo integraciones de **agentes de IA** a nivel de SDK (MCP, Anthropic & Gemini).
+Backend Engineer with over 6 years of experience designing scalable microservices and high-performance APIs in **Python/FastAPI**. I combine the rigor of **Hexagonal Architecture / Clean Architecture** with the agility of **Cloud Native** services, and I build integrations of **AI agents** at the SDK level (MCP, Anthropic & Gemini).
 
-📍 Lima, Perú — *Open to Remote (Global)*
+📍 Lima, Peru — *Open to Remote (Global)*
 
 ---
 
 ### 🚀 Featured Projects
 
 **[🎯 Job Match](https://github.com/daniel-caso-github/job-match)** — *Python · FastAPI · Gemini · pgvector · Airflow · React*
-Pipeline de matching de empleos con IA, end to end. Recolecta ofertas de fuentes legales cada 12 h, extrae los requisitos con un **LLM (Gemini)** hacia un schema **Pydantic** validado, calcula **embeddings** y ejecuta scoring semántico + LLM contra un perfil profesional, exponiendo los matches con fortalezas y riesgos vía API. Construido en **Clean Architecture** (domain → application → infrastructure → interfaces), con PostgreSQL + **pgvector**, autenticación **JWT**, orquestación con **Airflow** (DAG cada 12 h), **Docker** + Alembic, métricas **Prometheus** y frontend en **React (Vite + TS)**.
+An end-to-end AI-powered job matching pipeline. It collects job postings from legal sources every 12 hours, extracts requirements using an LLM (Gemini) into a validated Pydantic schema, calculates embeddings, and performs semantic scoring (using LLM) against a professional profile, exposing matches with strengths and risks via API. Built on **Clean Architecture** (domain → application → infrastructure → interfaces), with PostgreSQL + **pgvector**, **JWT** authentication, **Airflow** orchestration (DAG every 12 hours), **Docker** + Alembic, **Prometheus** metrics, and a **React** frontend (Vite + TS).
 
-**[🤖 Starbucks AI Agent](https://github.com/daniel-caso-github/starbucks-ai-agent)** — *TypeScript · Claude & Gemini SDKs · MCP · ChromaDB*
-Backend de IA en producción con **agentic workflows** e integración **RAG** construida a nivel de SDK (sin LangChain). Expone **MCP servers (FastMCP)** para interoperabilidad agente–herramienta, arquitectura hexagonal/DDD, ~80% de cobertura de tests y observabilidad **Prometheus/Grafana/Loki**.
+**[🤖 Starbucks AI Agent](https://github.com/daniel-caso-github/starbucks-ai-agent)** — *TypeScript · Claude & Gemini SDKs · MCP · ChromaDB* A production AI backend with **agentic workflows** and **RAG** ​​integration built at the SDK level (without LangChain). It exposes **MCP servers (FastMCP)** for agent-tool interoperability, a hexagonal/DDD architecture, approximately 80% test coverage, and **Prometheus/Grafana/Loki** observability.
 
 **[⚡ Realtime Alert System](https://github.com/daniel-caso-github/realtime-alert-system)** — *Go · Kubernetes · Terraform*
-Servicio de alertas event-driven en **Go** con Clean Architecture, versionado semántico, CI/CD con GitHub Actions e Infraestructura como Código (Terraform) para AWS.
+Event-driven alert service in **Go** with Clean Architecture, semantic versioning, CI/CD with GitHub Actions, and Infrastructure as Code (Terraform) for AWS.
 
 **[🔐 OAuth2 Microservices Library](https://github.com/daniel-caso-github/users-insights)** — *Python · Keycloak*
-Librería de autenticación service-to-service (**OAuth2 / JWT**) con Keycloak para arquitecturas de microservicios.
+Service-to-service authentication library (**OAuth2 / JWT**) with Keycloak for microservices architectures.
 
 **[⛓️ Mini Blockchain](https://github.com/daniel-caso-github/mini-blockchain)** — *Python*
-Exploración de estructuras de datos inmutables y criptografía distribuida.
+Exploring immutable data structures and distributed cryptography.
 
 ---
 
 ### 🏗️ Architectural Philosophy & Core Expertise
 
-> *"I build for scale, maintainability, and resilience."*
+> "I build for scale, maintainability, and resilience."
 
-- **Modernization:** Migraciones críticas de monolitos **.NET** hacia microservicios **FastAPI** aplicando el **Strangler Fig Pattern**, sin interrumpir producción.
-- **AI Integration:** Diseño de agentes inteligentes y **RAG (ChromaDB)** a nivel de SDK, con **MCP servers (FastMCP)** para interoperabilidad de herramientas.
-- **Security First:** Librerías de **OAuth2 / JWT** y gestión de secretos con **HashiCorp Vault**.
-- **Design Patterns:** **CQRS**, Event-Driven, DDD y SOLID como base de sistemas mantenibles.
+- **Modernization:** Critical migrations from .NET monoliths to FastAPI microservices using the Strangler Fig Pattern, without disrupting production.
+
+- **AI Integration:** Design of intelligent agents and RAGs (ChromaDB) at the SDK level, with MCP servers (FastMCP) for tool interoperability.
+
+- **Security First:** OAuth2/JWT libraries and secret management with HashiCorp Vault.
+
+- - **Design Patterns:** **CQRS**, Event-Driven, DDD, and SOLID as the foundation for maintainable systems.
 
 ---
 
@@ -46,8 +48,6 @@ Exploración de estructuras de datos inmutables y criptografía distribuida.
 | **Panic Alert Integration** | C# .NET, Webhooks | Integración centralizada para Genetec Security Center 5.13. |
 | **Event-Driven Core** | Kafka, RabbitMQ | Comunicación asíncrona confiable en sistemas de alto tráfico. |
 | **Automated Pipeline** | GitHub Actions, Terraform | IaC para despliegues Zero-Downtime. |
-
----
 
 ### ⚡ Technical Toolbox
 
